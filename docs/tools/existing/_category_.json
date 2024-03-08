@@ -1,0 +1,8 @@
+{
+  "label": "Lista de ferramentas",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentação sobre a funcionalidade de ferramentas do AI Agents."
+  }
+}
